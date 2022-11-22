@@ -1,0 +1,37 @@
+<!-------
+Use all of these meta tags
+in your site header
+
+
+https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards
+------->
+
+<!-----website link--------->
+<meta property="og:url" content="https://www.yourwebsitelink.com">
+<!------your thumbnail link-------->
+<meta property="og:image" content="https://uploads-ssl.webflow.com/6245d81218738b449a4f4d48/635281b9d58106f406ca80bb_kenword.png" />
+<!--------your thumbnail link------>
+<meta property="og:image:secure_url" content="https://uploads-ssl.webflow.com/6245d81218738b449a4f4d48/635281b9d58106f406ca80bb_kenword.png" />
+<!--------your thumbnail image type------>
+<meta property="og:image:type" content="image/png" />
+<!-------your thumbnail width size------->
+<meta property="og:image:width" content="570" />
+<!--------your thumbnail height size------>
+<meta property="og:image:height" content="268" />
+<!--------your thumbnail alter text------>
+<meta property="og:image:alt" content="The World’s First Tech Metaverse Marketing Agency" />
+
+<!------just copy this tab and pest-------->
+<meta name="twitter:card" content="summary_large_image">
+<!-------your twitter name or id------->
+<meta name="twitter:site" content="@iftakher303">
+<!---------your thumbnail name----->
+<meta name="twitter:creator" content="@iftakher303">
+<!------your page title-------->
+<meta name="twitter:title" content="The World’s First Tech Metaverse Marketing Agency | KeenWorld">
+<!------your page description-------->
+<meta name="twitter:description" content="KeenWorld is the world’s first tech metaverse marketing agency. We bridge the gap between brands and in-world marketing by building an ecosystem between metaverse creators, promoters and brands. Our mission is to create opportunities for businesses and individuals to connect and grow in a digital world.">
+<!--------your thumbnail link------>
+<meta name="twitter:image" content="https://uploads-ssl.webflow.com/6245d81218738b449a4f4d48/635281b9d58106f406ca80bb_kenword.png">
+
+
